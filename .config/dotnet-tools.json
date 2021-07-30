@@ -3,7 +3,7 @@
   "isRoot": true,
   "tools": {
     "fake-cli": {
-      "version": "5.19",
+      "version": "5.20.4",
       "commands": [
         "fake"
       ]
@@ -15,7 +15,7 @@
       ]
     },
     "fable": {
-      "version": "3.2.6",
+      "version": "3.2.9",
       "commands": [
         "fable"
       ]
